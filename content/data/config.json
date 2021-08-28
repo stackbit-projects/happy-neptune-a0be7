@@ -154,5 +154,6 @@
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
-    }
+    },
+    "domain": "https://happy-neptune-a0be7.netlify.app"
 }
